@@ -189,7 +189,7 @@
     .right-side-articles {
       flex: 1;
       position: sticky;
-      top: 60px;
+      top: 8px;
       align-self: flex-start;
     }
   }
